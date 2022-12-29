@@ -1,5 +1,5 @@
 Name:		texlive-lt3rawobjects
-Version:	64038
+Version:	65230
 Release:	1
 Summary:	Objects and proxies in LaTeX3
 Group:		Publishing
