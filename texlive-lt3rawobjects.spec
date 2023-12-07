@@ -1,6 +1,6 @@
 Name:		texlive-lt3rawobjects
-Version:	65230
-Release:	2
+Version:	66619
+Release:	1
 Summary:	Objects and proxies in LaTeX3
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/lt3rawobjects
