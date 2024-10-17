@@ -3,7 +3,7 @@ Version:	66619
 Release:	1
 Summary:	Objects and proxies in LaTeX3
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/lt3rawobjects
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/lt3rawobjects
 License:	gpl3+
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/lt3rawobjects.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/lt3rawobjects.doc.r%{version}.tar.xz
